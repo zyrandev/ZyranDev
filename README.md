@@ -1,5 +1,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
   ## Zyran GitHub Stats
 
   <a href="https://github.com/ZyranDev">
