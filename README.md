@@ -2,7 +2,6 @@
 
 I am a programmer from Mexico, my preferred language is Java although I am trying to learn others
 
-<details>
   <summary>:zap: GitHub Stats</summary>
   
   ## Zyran GitHub Stats
@@ -19,4 +18,4 @@ I am a programmer from Mexico, my preferred language is Java although I am tryin
   <a href="https://github.com/ZyranDev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyranDev&layout=compact&theme=gotham&locale=en" alt="Zyran's most used      languages"/>
   </a>
-</details>
+  
