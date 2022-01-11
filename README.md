@@ -1,6 +1,6 @@
 # Hi, I'm Enrique.
 
-I am a programmer from Mexico, my preferred language is Java although I am trying to learn others
+I am a programmer from Mexico, my preferred programming language is Java although I am trying to learn others
 
   <summary>:zap: GitHub Stats</summary>
   
