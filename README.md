@@ -1,7 +1,7 @@
 # Hi, I'm Enrique.
 
 I am a programmer from Mexico, my preferred programming language is Java although I am trying to learn others
-
+Wakatime: https://wakatime.com/@Zyran
 ---
 
   <a href="https://github.com/ZyranDev">
